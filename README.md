@@ -1,2 +1,3 @@
 # Supervised_Learning_Classification_Project
-This project demonstrated the Supervised Learning in Machine Learning by comparing 3 main supervised learning algorithms - Logistic Regression, KNN Algorithm and SVM
+This project demonstrated the Supervised Learning in Machine Learning by comparing 3 main supervised learning algorithms - Logistic Regression, KNN Algorithm and SVM.
+This project has demonstrated the effective use of machine learning techniques to predict heart disease using a well-structured dataset. By exploring, visualizing, and preprocessing the data, followed by applying and comparing various machine learning algorithms, I have provided a robust analysis framework. These findings can be leveraged to enhance predictive models, aiding in the early diagnosis and treatment of heart disease, ultimately contributing to better healthcare outcomes.
